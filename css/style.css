@@ -1,0 +1,54 @@
+body {
+    background-color:white;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+ ul {
+    
+    margin-left: 290px;
+    margin-top: 100px;
+    margin-right: 0px;
+}
+li{
+    display: block;
+    margin-top:  25px;
+}
+/* .two{
+    display: block;
+    float: right;
+     background-color: yellow;
+     float:right;
+     margin-right: 25px;
+     width: 47.5%;
+     height: 600px;
+
+}
+.one{
+    display: block;
+    float: left;
+  background-color: wheat;
+  width: 47.5%;
+  margin-left: 25px;
+
+  height: 600px;
+
+} */
+.two {
+    float: right;
+    margin-left: 0px;
+    width: 750px;
+    height:600px;
+    background-color: yellow;
+    
+}
+.one {
+    
+    float: left;
+    width: 753px;
+    height:600px;
+    background-color : violet;
+}
